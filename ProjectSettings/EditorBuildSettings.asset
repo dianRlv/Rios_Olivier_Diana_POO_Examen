@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EX_FINAL/Menu_Principal.unity
+    guid: 6314170119c6a4141919db42bcfff95f
+  - enabled: 1
+    path: Assets/Scenes/EX_FINAL/Seleccion_Personaje.unity
+    guid: b8b9159c072dc644b9e0f7fa789252ab
+  - enabled: 1
+    path: Assets/Scenes/EX_FINAL/Bloom_P1.unity
+    guid: 6546531fe1701024f92b09e2607b9c6a
+  - enabled: 1
+    path: Assets/Scenes/EX_FINAL/Pinky_P2.unity
+    guid: 575d78370f5482244ad4344f4a08dfda
+  - enabled: 1
+    path: Assets/Scenes/EX_FINAL/Darik_P3.unity
+    guid: ba9946b485483b34184dcc80601af0b1
   m_configObjects: {}
